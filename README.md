@@ -36,3 +36,7 @@ Alternatively, install the `.plugin` file. Then:
 - This is not an official Meta integration: if Meta changes the Business Suite interface, some procedures may need updating.
 - Slower than an API, but it can schedule on Instagram too and handle private messages.
 - Works on accounts with management permissions on the page and on the linked Instagram professional profile.
+
+## License
+
+GNU General Public License v3.0 (GPL-3.0-only). See [LICENSE](LICENSE).

@@ -13,5 +13,6 @@
     "business suite",
     "browser"
   ],
-  "repository": "https://github.com/Clayblock94/meta-business-suite-claude-plugin"
+  "repository": "https://github.com/Clayblock94/meta-business-suite-claude-plugin",
+  "license": "GPL-3.0-only"
 }
