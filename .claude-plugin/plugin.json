@@ -14,5 +14,6 @@
     "browser"
   ],
   "repository": "https://github.com/Clayblock94/meta-business-suite-claude-plugin",
-  "license": "GPL-3.0-only"
+  "license": "GPL-3.0-only",
+  "privacyPolicyUrl": "https://github.com/Clayblock94/meta-business-suite-claude-plugin/blob/main/PRIVACY.md"
 }

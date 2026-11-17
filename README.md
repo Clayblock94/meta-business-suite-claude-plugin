@@ -42,3 +42,7 @@ Alternatively, install the `.plugin` file. Then:
 ## License
 
 GNU General Public License v3.0 (GPL-3.0-only). See [LICENSE](LICENSE).
+
+## Privacy
+
+The plugin collects no data. See the [Privacy Policy](PRIVACY.md).
