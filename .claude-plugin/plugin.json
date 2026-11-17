@@ -1,0 +1,17 @@
+{
+  "name": "meta-business-suite",
+  "version": "0.4.0",
+  "description": "Manage Meta Business Suite (Facebook and Instagram) with Claude through the browser: post scheduling, inbox and comments, insights reports.",
+  "author": {
+    "name": "Clayblock94"
+  },
+  "keywords": [
+    "meta",
+    "facebook",
+    "instagram",
+    "social media",
+    "business suite",
+    "browser"
+  ],
+  "repository": "https://github.com/Clayblock94/meta-business-suite-claude-plugin"
+}
