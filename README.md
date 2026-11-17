@@ -2,6 +2,8 @@
 
 A Claude plugin that manages **Facebook and Instagram from Meta Business Suite** by working in the browser, with your existing login. It uses no API and no tokens, and it never asks for your password.
 
+> This plugin is independent and is not affiliated with, endorsed by or sponsored by Meta. Meta, Facebook, Instagram and Meta Business Suite are trademarks of their respective owners.
+
 ## Included skills
 
 | Skill | What it does |

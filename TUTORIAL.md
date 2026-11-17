@@ -3,6 +3,8 @@
 This guide takes you from installation to your first scheduled post. Estimated time: about 15 minutes. You do not need tokens, a developer app or any API: Claude works in the browser, using your existing Meta Business Suite login.
 
 > The plugin is not an official Meta integration. If Meta changes the Business Suite interface, some procedures may need an update.
+>
+> This plugin is independent and is not affiliated with, endorsed by or sponsored by Meta. Meta, Facebook, Instagram and Meta Business Suite are trademarks of their respective owners.
 
 ## 1. What you need
 
